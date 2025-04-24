@@ -3,3 +3,5 @@ idea
 *.xml
 *.pyc
 .idea
+.DS_*
+*_bkp.py
